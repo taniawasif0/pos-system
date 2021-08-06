@@ -1,1 +1,1 @@
-# pos-system
+# inventory-store
